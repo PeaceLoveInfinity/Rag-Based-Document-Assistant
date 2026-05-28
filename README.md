@@ -239,35 +239,32 @@ POST /ask
 
 ## Home Interface
 
-> Add screenshot here
-
-```markdown
+Markdown
 ![Application home page with navigation menu and welcome message inviting users to upload PDF documents](screenshots/home-ui.png)
-```
+
 
 ## Upload PDF
 
-```markdown
+Markdown
 ![Upload interface with choose file zone and Train AI button for selecting PDF documents](screenshots/upload-pdf.png)
-```
+
 
 ## Question Answering
 
-```markdown
+Markdown
 ![Chat interface showing document processing status and question input field where users can type queries about uploaded documents](screenshots/chat-interface.png)
-```
+
 
 ## Azure Deployment
 
-```markdown
+Markdown
 ![Azure App Service dashboard](screenshots/azure-deployment.png)
-```
+
 
 ## Docker
 
-```markdown
+Markdown
 ![Terminal window displaying Docker container build and deployment logs showing cached layers, image exports, and successful Uvicorn server startup confirmation](screenshots/docker-running.png)
-```
 
 ---
 
