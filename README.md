@@ -239,8 +239,8 @@ POST /ask
 
 ## Home Interface
 
-Markdown
-![Application home page with navigation menu and welcome message inviting users to upload PDF documents](screenshots/home-ui.png)
+Application home page with navigation menu and welcome message inviting users to upload PDF documents
+![Home Interface](screenshots/home-ui.png)
 
 
 ## Upload PDF
