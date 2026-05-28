@@ -239,32 +239,32 @@ POST /ask
 
 ## Home Interface
 
-Application home page with navigation menu and welcome message inviting users to upload PDF documents
-(screenshots/home-ui.png)
+Application home page with navigation menu and welcome message inviting users to upload PDF documents.
+![Home Interface](screenshots/home-ui.png)
 
 
 ## Upload PDF
 
-Markdown
-![Upload interface with choose file zone and Train AI button for selecting PDF documents](screenshots/upload-pdf.png)
+Upload interface with choose file zone and Train AI button for selecting PDF documents.
+![Upload PDF](screenshots/upload-pdf.png)
 
 
 ## Question Answering
 
-Markdown
-![Chat interface showing document processing status and question input field where users can type queries about uploaded documents](screenshots/chat-interface.png)
+Chat interface showing document processing status and question input field where users can type queries about uploaded documents.
+![Chat Interface](screenshots/chat-interface.png)
 
 
 ## Azure Deployment
 
-Markdown
-![Azure App Service dashboard](screenshots/azure-deployment.png)
+Azure App Service dashboard.
+![Azure Deployment](screenshots/azure-deployment.png)
 
 
 ## Docker
 
-Markdown
-![Terminal window displaying Docker container build and deployment logs showing cached layers, image exports, and successful Uvicorn server startup confirmation](screenshots/docker-running.png)
+Terminal window displaying Docker container build and deployment logs showing cached layers, image exports, and successful Uvicorn server startup confirmation.
+![Docker Running](screenshots/docker-running.png)
 
 ---
 
