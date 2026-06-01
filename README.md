@@ -8,8 +8,6 @@ Built using FastAPI, LangChain, Pinecone, Groq LLMs, Docker, and deployed on Mic
 
 # Live Demo
 
-> Add your Azure deployed URL here
-
 ```bash
 https://rag-based-research-document-assistant-c9cphzckdzf7a9gv.southeastasia-01.azurewebsites.net/
 ```
@@ -255,16 +253,16 @@ Chat interface showing document processing status and question input field where
 ![Chat Interface](screenshots/chat-interface.png)
 
 
-## Azure Deployment
-
-Azure App Service dashboard.
-![Azure Deployment](screenshots/azure-deployment.png)
-
-
 ## Docker
 
 Terminal window displaying Docker container build and deployment logs showing cached layers, image exports, and successful Uvicorn server startup confirmation.
 ![Docker Running](screenshots/docker-running.png)
+
+
+## Azure Deployment
+
+Azure App Service dashboard.
+![Azure Deployment](screenshots/azure-deployment.png)
 
 ---
 
